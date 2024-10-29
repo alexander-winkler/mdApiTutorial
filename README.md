@@ -42,5 +42,5 @@ Diese Notebooks setzen Grundkenntnisse im Umgang mit Python voraus.
 
 | Dateiname | Link zum Notebook | interaktiv ausführbare Version | Inhalt |
 |:---|:--|:--|:----|
-| `Objektinformationen_JSON.ipynb` | <content/Objektinformationen_JSON.ipynb> | [JupyterLite](https://alexander-winkler.github.io/mdApiTutorial/lab/index.html?path=Objektinformationen_JSON.ipynb) | Abruf von Metadaten zu einzelnen Objekten im JSON-Format | 
-| `Treffermengen.ipynb` | <content/Treffermengen.ipynb> | [JupyterLite](https://alexander-winkler.github.io/mdApiTutorial/lab/index.html?path=Treffermengen.ipynb) | Abruf größerer Treffermengen (per Iteration), Erstellen eines Dumps, Statistiken |
+| `Objektinformationen_JSON.ipynb` | [Objektinformationen_JSON.ipynb](content/Objektinformationen_JSON.ipynb) | [JupyterLite](https://alexander-winkler.github.io/mdApiTutorial/lab/index.html?path=Objektinformationen_JSON.ipynb) | Abruf von Metadaten zu einzelnen Objekten im JSON-Format | 
+| `Treffermengen.ipynb` | [Objektinformationen_JSON.ipynb](content/Treffermengen.ipynb) | [JupyterLite](https://alexander-winkler.github.io/mdApiTutorial/lab/index.html?path=Treffermengen.ipynb) | Abruf größerer Treffermengen (per Iteration), Erstellen eines Dumps, Statistiken |
