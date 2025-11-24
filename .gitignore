@@ -117,3 +117,5 @@ _output
 
 # my own ignores
 apikey.txt
+*.tsv
+*.csv
